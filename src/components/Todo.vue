@@ -18,4 +18,4 @@
   </li>
 </template>
 
-<script src="./Todo.js"></script>
+<script src="./_Todo.js"></script>

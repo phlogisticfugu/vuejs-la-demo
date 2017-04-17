@@ -5,4 +5,4 @@
   </div>
 </template>
 
-<script src="./Example2.js"></script>
+<script src="./_Example2.js"></script>

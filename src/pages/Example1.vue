@@ -1,7 +1,7 @@
 <template>
   <div>
     <app-nav></app-nav>
-    <h2>This is the first example page</h2>
+    <h2>This is the first example page!!</h2>
     <div class="panel panel-default">
       <div class="panel-heading">
         Simple Counter Example

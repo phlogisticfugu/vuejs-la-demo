@@ -36,6 +36,7 @@ const store = new Vuex.Store({
 });
 
 export default {
+  name: 'Example2',
   store,
   components: {
     'app-todomvc': TodoMVC,

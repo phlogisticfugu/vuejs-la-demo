@@ -34,6 +34,6 @@
   </section>
 </template>
 
-<style src="./TodoMVC.css"></style>
+<style src="./_TodoMVC.css"></style>
 
-<script src="./TodoMVC.js"></script>
+<script src="./_TodoMVC.js"></script>

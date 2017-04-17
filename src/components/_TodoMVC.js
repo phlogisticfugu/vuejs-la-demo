@@ -10,6 +10,7 @@ const filters = {
 };
 
 export default {
+  name: 'TodoMVC',
   components: { Todo },
   data() {
     return {
