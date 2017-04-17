@@ -74,7 +74,7 @@ body {
 	font-size: 100px;
 	font-weight: 100;
 	text-align: center;
-	color: rgba(175, 47, 47, 0.15);
+	color: rgba(175, 47, 47, 0.65);
 	-webkit-text-rendering: optimizeLegibility;
 	-moz-text-rendering: optimizeLegibility;
 	text-rendering: optimizeLegibility;
@@ -215,7 +215,7 @@ body {
 }
 
 .todo-list li.completed label {
-	color: #d9d9d9;
+	color: #a9a9a9; /* Brad: wa #d9d9d9; */
 	text-decoration: line-through;
 }
 
@@ -255,7 +255,7 @@ body {
 }
 
 .footer {
-	color: #777;
+	color: black; /* Brad changed, was #777 */
 	padding: 10px 15px;
 	height: 50px; /* Brad upped from 20px */
 	text-align: center;

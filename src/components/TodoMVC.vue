@@ -2,7 +2,7 @@
   <section class="todoapp">
     <!-- header -->
     <header class="header">
-      <h1>todos</h1>
+      <h1>Todo MVC</h1>
       <input class="new-todo"
         autofocus
         autocomplete="off"
